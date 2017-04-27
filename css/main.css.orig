@@ -1565,7 +1565,7 @@
 		}
 
 	body, input, select, textarea {
-		color: #507EA7;
+		color: #a2a2a2;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
@@ -1602,7 +1602,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: ##406586;
+		color: #787878;
 		font-weight: 400;
 		line-height: 1em;
 	}
@@ -2463,7 +2463,7 @@
 	#header {
 		background-color: #1f1815;
 		background-attachment: scroll,								fixed;
-		background-image: url("../images/bg.jpg");
+		background-image: url("images/overlay.png"), url("../images/bg.jpg");
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								auto 100%;
@@ -2478,7 +2478,7 @@
 	}
 
 		#header strong, #header b {
-			color: #FFFFFF;
+			color: #ffffff;
 		}
 
 		#header h2, #header h3, #header h4, #header h5, #header h6 {
@@ -2929,7 +2929,7 @@
 			#footer {
 				background-attachment: scroll;
 				background-color: #1f1815;
-				background-image: url("../images/bg.jpg");
+				background-image: url("images/overlay.png"), url("../images/bg.jpg");
 				background-position: top left,						bottom center;
 				background-repeat: repeat,							no-repeat;
 				background-size: auto,							cover;
@@ -3142,7 +3142,7 @@
 
 	#sidebar ul li a,
 	#sidebar ul li a a:visited {
-		color: #E1E1DF;
+		color: #a2a2a2;
 		text-decoration: none;
 	}
 
