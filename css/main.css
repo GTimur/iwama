@@ -2086,7 +2086,7 @@
 
 			.image.avatar img {
 				border-radius: 8px;
-				width: 150%;
+				width: 100%;
 			}
 
 /* List */
@@ -2470,7 +2470,7 @@
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: 0;
-		padding: 8em 4em 0 0;
+		padding: 2em 4em 0 0;
 		position: fixed;
 		text-align: right;
 		top: 0;
@@ -2493,8 +2493,8 @@
 		}
 
 		#header .image.avatar {
-			margin: 0 5em 2em 0;
-			width: 11.25em;
+			margin: 0 1em 2em 0;
+			width: 9.25em;
 		}
 
 /* Footer */
@@ -2502,7 +2502,7 @@
 	#footer {
 		bottom: 0;
 		left: 0;
-		padding: 0 4em 6em 0;
+		padding: 0 4em 2em 0;
 		position: fixed;
 		text-align: right;
 		width: 35%;
@@ -2520,7 +2520,7 @@
 			color: rgba(255, 255, 255, 0.4);
 			font-size: 0.8em;
 			list-style: none;
-			margin: 1em 0 0 0;
+			margin: 0.5em 0 0 0;
 			padding: 0;
 		}
 
@@ -3136,7 +3136,7 @@
 
 	#sidebar ul li {
 		list-style: none;
-		font-size: 1.35em;
+		font-size: 1.15em;
 		line-height: 1.5em;
 	}
 
