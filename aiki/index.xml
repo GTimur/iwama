@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aikis on Краснодарский клуб айкидо Такемусу Айки</title>
+    <link>https://gtimur.github.io/iwama/aiki/</link>
+    <description>Recent content in Aikis on Краснодарский клуб айкидо Такемусу Айки</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 May 2017 11:04:46 +0300</lastBuildDate>
+    
+	<atom:link href="https://gtimur.github.io/iwama/aiki/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Об Айкидо</title>
+      <link>https://gtimur.github.io/iwama/aiki/main/</link>
+      <pubDate>Sun, 21 May 2017 11:04:46 +0300</pubDate>
+      
+      <guid>https://gtimur.github.io/iwama/aiki/main/</guid>
+      <description>Просим прощения, скоро здесь будет информация&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

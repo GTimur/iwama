@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>О Клубе on Краснодарский клуб айкидо Такемусу Айки</title>
+    <link>https://gtimur.github.io/iwama/categories/%D0%BE-%D0%BA%D0%BB%D1%83%D0%B1%D0%B5/</link>
+    <description>Recent content in О Клубе on Краснодарский клуб айкидо Такемусу Айки</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 May 2017 11:04:46 +0300</lastBuildDate>
+    
+	<atom:link href="https://gtimur.github.io/iwama/categories/%D0%BE-%D0%BA%D0%BB%D1%83%D0%B1%D0%B5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Информация о клубе</title>
+      <link>https://gtimur.github.io/iwama/about/about/</link>
+      <pubDate>Sun, 21 May 2017 11:04:46 +0300</pubDate>
+      
+      <guid>https://gtimur.github.io/iwama/about/about/</guid>
+      <description>Просим прощения, скоро здесь будет информация&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
