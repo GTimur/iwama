@@ -3,22 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gtimur.github.io/iwama/club/grafik/</loc>
+    <loc>https://gtimur.github.io/iwama/polinfo/grafik/</loc>
     <lastmod>2017-04-21T04:08:58-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gtimur.github.io/iwama/club/pravila/</loc>
+    <loc>https://gtimur.github.io/iwama/polinfo/pravila/</loc>
     <lastmod>2017-04-21T01:46:38-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gtimur.github.io/iwama/club/history/</loc>
+    <loc>https://gtimur.github.io/iwama/polinfo/history/</loc>
     <lastmod>2017-04-21T01:33:02-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gtimur.github.io/iwama/club/exam/</loc>
+    <loc>https://gtimur.github.io/iwama/polinfo/exam/</loc>
     <lastmod>2017-04-21T04:23:49-04:00</lastmod>
   </url>
   
@@ -85,12 +85,6 @@
   </url>
   
   <url>
-    <loc>https://gtimur.github.io/iwama/club/</loc>
-    <lastmod>2017-04-21T04:08:58-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://gtimur.github.io/iwama/links/</loc>
     <lastmod>2017-05-21T11:04:46+03:00</lastmod>
     <priority>0</priority>
@@ -105,6 +99,12 @@
   <url>
     <loc>https://gtimur.github.io/iwama/photo/</loc>
     <lastmod>2017-04-28T08:00:01+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gtimur.github.io/iwama/polinfo/</loc>
+    <lastmod>2017-04-21T04:08:58-04:00</lastmod>
     <priority>0</priority>
   </url>
   
