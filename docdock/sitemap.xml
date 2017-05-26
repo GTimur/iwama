@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://takemusu-aiki.club/docdock/</loc>
+    <lastmod>2017-05-26T08:15:49+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://takemusu-aiki.club/docdock/_header/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://takemusu-aiki.club/docdock/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://takemusu-aiki.club/docdock/clubinfo/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://takemusu-aiki.club/docdock/clublearn/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://takemusu-aiki.club/docdock/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://takemusu-aiki.club/docdock/clubinfo/</loc>
+  </url>
+  
+  <url>
+    <loc>http://takemusu-aiki.club/docdock/clublearn/main/</loc>
+  </url>
+  
+  <url>
+    <loc>http://takemusu-aiki.club/docdock/clubinfo/4beginners/</loc>
+  </url>
+  
+  <url>
+    <loc>http://takemusu-aiki.club/docdock/clubinfo/pravila/</loc>
+  </url>
+  
+  <url>
+    <loc>http://takemusu-aiki.club/docdock/clubinfo/exam/</loc>
+  </url>
+  
+  <url>
+    <loc>http://takemusu-aiki.club/docdock/clubinfo/main/</loc>
+  </url>
+  
+  <url>
+    <loc>http://takemusu-aiki.club/docdock/clublearn/</loc>
+  </url>
+  
+</urlset>
