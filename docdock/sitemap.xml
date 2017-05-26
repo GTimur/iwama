@@ -3,61 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://takemusu-aiki.club/docdock/</loc>
+    <loc>/</loc>
     <lastmod>2017-05-26T08:15:49+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://takemusu-aiki.club/docdock/_header/</loc>
+    <loc>/_header/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://takemusu-aiki.club/docdock/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://takemusu-aiki.club/docdock/clubinfo/</loc>
+    <loc>/clubinfo/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://takemusu-aiki.club/docdock/clublearn/</loc>
+    <loc>/clublearn/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://takemusu-aiki.club/docdock/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://takemusu-aiki.club/docdock/clubinfo/</loc>
+    <loc>/clubinfo/</loc>
   </url>
   
   <url>
-    <loc>http://takemusu-aiki.club/docdock/clublearn/main/</loc>
+    <loc>/clublearn/main/</loc>
   </url>
   
   <url>
-    <loc>http://takemusu-aiki.club/docdock/clubinfo/4beginners/</loc>
+    <loc>/clubinfo/4beginners/</loc>
   </url>
   
   <url>
-    <loc>http://takemusu-aiki.club/docdock/clubinfo/pravila/</loc>
+    <loc>/clubinfo/pravila/</loc>
   </url>
   
   <url>
-    <loc>http://takemusu-aiki.club/docdock/clubinfo/exam/</loc>
+    <loc>/clubinfo/exam/</loc>
   </url>
   
   <url>
-    <loc>http://takemusu-aiki.club/docdock/clubinfo/main/</loc>
+    <loc>/clubinfo/main/</loc>
   </url>
   
   <url>
-    <loc>http://takemusu-aiki.club/docdock/clublearn/</loc>
+    <loc>/clublearn/</loc>
   </url>
   
 </urlset>
