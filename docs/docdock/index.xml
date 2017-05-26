@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Добро пожаловать на главную страницу on Информационный портал клуба</title>
+    <link>/</link>
+    <description>Recent content in Добро пожаловать на главную страницу on Информационный портал клуба</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 May 2017 08:15:49 +0300</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Расписание занятий</title>
+      <link>/welcome/</link>
+      <pubDate>Fri, 26 May 2017 08:32:11 +0300</pubDate>
+      
+      <guid>/welcome/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>header</title>
+      <link>/_header/</link>
+      <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
+      
+      <guid>/_header/</guid>
+      <description>Портал документации клуба Айкидо Такемусу Айки Краснодар</description>
+    </item>
+    
+  </channel>
+</rss>
