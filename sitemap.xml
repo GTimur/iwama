@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gtimur.github.io/iwama/polinfo/grafik/</loc>
+    <loc>https://gtimur.github.io/iwama/post/grafik/</loc>
     <lastmod>2017-04-21T04:08:58-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gtimur.github.io/iwama/polinfo/pravila/</loc>
+    <loc>https://gtimur.github.io/iwama/post/pravila/</loc>
     <lastmod>2017-04-21T01:46:38-04:00</lastmod>
   </url>
   
@@ -18,7 +18,7 @@
   </url>
   
   <url>
-    <loc>https://gtimur.github.io/iwama/polinfo/exam/</loc>
+    <loc>https://gtimur.github.io/iwama/post/exam/</loc>
     <lastmod>2017-04-21T04:23:49-04:00</lastmod>
   </url>
   
@@ -43,22 +43,22 @@
   </url>
   
   <url>
-    <loc>https://gtimur.github.io/iwama/post/motiv01/</loc>
+    <loc>https://gtimur.github.io/iwama/post2/motiv01/</loc>
     <lastmod>2017-04-27T12:48:39+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gtimur.github.io/iwama/post/celi/</loc>
+    <loc>https://gtimur.github.io/iwama/post2/celi/</loc>
     <lastmod>2017-04-21T08:28:27-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gtimur.github.io/iwama/post/populate/</loc>
+    <loc>https://gtimur.github.io/iwama/post2/populate/</loc>
     <lastmod>2017-04-21T08:26:53-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gtimur.github.io/iwama/post/pritcha-20170421/</loc>
+    <loc>https://gtimur.github.io/iwama/post2/pritcha-20170421/</loc>
     <lastmod>2017-04-21T02:20:20-04:00</lastmod>
   </url>
   
@@ -98,14 +98,14 @@
   </url>
   
   <url>
-    <loc>https://gtimur.github.io/iwama/polinfo/</loc>
-    <lastmod>2017-04-21T04:08:58-04:00</lastmod>
+    <loc>https://gtimur.github.io/iwama/post2/</loc>
+    <lastmod>2017-04-27T12:48:39+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gtimur.github.io/iwama/post/</loc>
-    <lastmod>2017-04-27T12:48:39+03:00</lastmod>
+    <lastmod>2017-04-21T04:08:58-04:00</lastmod>
     <priority>0</priority>
   </url>
   
