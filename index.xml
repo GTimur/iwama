@@ -6,7 +6,7 @@
     <description>Recent content on Краснодарский клуб айкидо Такемусу Айки</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Apr 2017 01:33:02 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 21 May 2017 11:06:22 +0300</lastBuildDate>
     
 	<atom:link href="https://gtimur.github.io/iwama/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>История Айкидо</title>
       <link>https://gtimur.github.io/iwama/aiki/history/</link>
-      <pubDate>Fri, 21 Apr 2017 01:33:02 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gtimur.github.io/iwama/aiki/history/</guid>
       <description>Aйкидо Традиционное Айкидо - современное воинское искусство.
@@ -29,25 +29,6 @@
       <guid>https://gtimur.github.io/iwama/news/main/</guid>
       <description>Летний лагерь айкидо с участием Президента Федерации &amp;ldquo;Такемусу Айкидо России&amp;rdquo;, Якимова Олега Борисовича (6 дан), состоится в п. Лазаревское с 24 по 28 июля 2017 года.
 Приглашаем всех желающих отдохнуть у моря занимаясь айкидо.</description>
-    </item>
-    
-    <item>
-      <title>Информация о клубе</title>
-      <link>https://gtimur.github.io/iwama/about/about/</link>
-      <pubDate>Sun, 21 May 2017 11:04:46 +0300</pubDate>
-      
-      <guid>https://gtimur.github.io/iwama/about/about/</guid>
-      <description>Основателем Айкидо считается О-Сенсей Морихей Уесиба (14.12.1883 – 26.04.1969).
-Всю собственную жизнь он посвятил изучению боевых искусств и результатом его многолетних трудов стало Айкидо. Данное искусство воплотило в себе техники Дайто-Рю Айки-дзюцу, Кендо, Дзю-дзюцу. Как отдельное единоборство Айкидо появилось перед Второй Мировой войной и считается на этот момент одним из самых молодых, но не взирая на это уже около 3 миллионов людей по всему миру практикуют Айкидо, а в Японии 40% занимающихся спортом выбрали непосредственно Айкидо.</description>
-    </item>
-    
-    <item>
-      <title>Ссылки</title>
-      <link>https://gtimur.github.io/iwama/links/main/</link>
-      <pubDate>Sun, 21 May 2017 11:04:46 +0300</pubDate>
-      
-      <guid>https://gtimur.github.io/iwama/links/main/</guid>
-      <description>Информационный портал клуба</description>
     </item>
     
     <item>
@@ -115,6 +96,16 @@
     </item>
     
     <item>
+      <title>Информация о клубе</title>
+      <link>https://gtimur.github.io/iwama/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gtimur.github.io/iwama/about/about/</guid>
+      <description>Основателем Айкидо считается О-Сенсей Морихей Уесиба (14.12.1883 – 26.04.1969).
+Всю собственную жизнь он посвятил изучению боевых искусств и результатом его многолетних трудов стало Айкидо. Данное искусство воплотило в себе техники Дайто-Рю Айки-дзюцу, Кендо, Дзю-дзюцу. Как отдельное единоборство Айкидо появилось перед Второй Мировой войной и считается на этот момент одним из самых молодых, но не взирая на это уже около 3 миллионов людей по всему миру практикуют Айкидо, а в Японии 40% занимающихся спортом выбрали непосредственно Айкидо.</description>
+    </item>
+    
+    <item>
       <title>Памятка для начинающих айкидок</title>
       <link>https://gtimur.github.io/iwama/post/4beginners/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -171,6 +162,15 @@ I. ОСНОВНЫЕ ПРАВИЛА В ДОДЗЕ.
       <guid>https://gtimur.github.io/iwama/post/main/</guid>
       <description>Занятия проводятся по следующему расписанию:
  Группа Возраст Дни Время   Младшие школьники (вечер) 6 - 10 лет Понедельник, среда 16.30 - 18.00   Старшие школьники (вечер) 11 - 14 лет Вторник, четверг 16.30 - 18.00   Взрослые от 15 лет и старше Вторник, четверг 19.30 - 21.00   Сборная команда - Понедельник, среда, пятница 19.30 - 21.00   </description>
+    </item>
+    
+    <item>
+      <title>Ссылки</title>
+      <link>https://gtimur.github.io/iwama/links/main/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gtimur.github.io/iwama/links/main/</guid>
+      <description>Страница клуба в ВКонтакте Федерация Такемусу Айкидо России Такемусу Айкидо на Кубани</description>
     </item>
     
   </channel>
