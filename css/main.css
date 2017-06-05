@@ -2470,7 +2470,7 @@
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: 0;
-		padding: 2em 4em 0 0;
+		padding: 1em 3em 0 0;
 		position: fixed;
 		text-align: right;
 		top: 0;
@@ -2493,8 +2493,8 @@
 		}
 
 		#header .image.avatar {
-			margin: 0 1em 2em 0;
-			width: 9.25em;
+			margin: 0 1em 2em 10;
+			width: 10.25em;
 		}
 
 /* Footer */
@@ -2509,7 +2509,7 @@
 	}
 
 		#footer .icons {
-			margin: 1em 0 0 0;
+			margin: 0.5em 0 0 0;
 		}
 
 			#footer .icons a {
@@ -2520,7 +2520,7 @@
 			color: rgba(255, 255, 255, 0.4);
 			font-size: 0.8em;
 			list-style: none;
-			margin: 0.5em 0 0 0;
+			margin: 0.3em 0 0 0;
 			padding: 0;
 		}
 
@@ -2935,7 +2935,7 @@
 				background-size: auto,							cover;
 				bottom: auto;
 				left: auto;
-				padding: 4em 4em 6em 4em;
+				padding: 4em 4em 6em 0em;
 				position: relative;
 				text-align: center;
 				width: 100%;
@@ -3131,12 +3131,12 @@
 	}
 
 	#sidebar {
-		margin-top: 1.5em;
+		margin-top:1em;
 	}
 
 	#sidebar ul li {
 		list-style: none;
-		font-size: 1.15em;
+		font-size: 1em;
 		line-height: 1.5em;
 	}
 
