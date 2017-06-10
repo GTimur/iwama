@@ -6,6 +6,7 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+
 /* Reset */
 
 	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
@@ -46,6 +47,8 @@
 	body {
 		-webkit-text-size-adjust: none;
 	}
+	
+	body { padding-bottom: 70px; }
 
 /* Box Model */
 
@@ -1602,7 +1605,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: ##406586;
+		color: #3F888F;
 		font-weight: 400;
 		line-height: 1em;
 	}
@@ -2470,7 +2473,7 @@
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: 0;
-		padding: 1em 3em 0 0;
+		padding: 70px 3em 0 0;
 		position: fixed;
 		text-align: right;
 		top: 0;
@@ -2553,8 +2556,8 @@
 
 		#main > section {
 			border-top: solid 2px #efefef;
-			margin: 4em 0 0 0;
-			padding: 4em 0 0 0;
+			margin: 1em 0 0 0;
+			padding: 1em 0 0 0;
 		}
 
 			#main > section:first-child {
@@ -2848,7 +2851,7 @@
 		/* Header */
 
 			#header {
-				padding: 6em 3em 3em 3em;
+				padding: 70px 3em 3em 3em;
 				width: 30%;
 			}
 
@@ -3008,7 +3011,7 @@
 		/* Header */
 
 			#header {
-				padding: 2.25em 1.5em;
+				padding: 100px 1.5em;
 			}
 
 				#header h1 {
@@ -3155,3 +3158,77 @@
 	 font-size: 20px;
 	 line-height: 36px;
  }
+
+#qouted {
+		font-style: italic;
+		margin: 10em 7em 2em 1em;
+		padding: 1.5em 7em 1.5em 1.5em;
+		color: #F5F5DC;
+	}
+
+#quoted h5 {
+	font-style: italic;
+	margin: 2em 0em 2em 2em;
+/*	padding: 1.5em 7em 1.5em 1.5em;*/
+	color: #F5F5DC;
+}
+
+#qfooter {
+		font-style: italic;
+		color: #FAEEDD;
+	}
+
+#qfooter h5 {
+	font-style: italic;
+	margin: 2em 0em 2em 2em;
+	color: #FAEEDD;
+}
+
+/*ссылки без подчеркиваний*/
+#moda {
+    color: #49bf9d;
+}
+
+#moda a {
+		-moz-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+		-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+		border-bottom: dotted 0px;
+/*		color: #49bf9d;*/
+		color: #3F888F;
+		text-decoration: none;
+	}
+
+#moda a:hover {
+			border-bottom-color: transparent;
+/*			color: #49bf9d !important;*/
+			color: #3F888F !important;
+			text-decoration: none;
+		}
+
+
+
+/* цвет фона и рамки навигационного меню */
+.navbar-default {
+    background-color: #F8F8F8;
+    border-color: #E7E7E7;
+}
+/* цвет текста, содержащий название сайта или бренда */
+    .navbar-default .navbar-brand {
+    color: #777;
+}
+/* цвет текста (название сайта или бренда), при поднесении к нему курсора мышки или при его нахождении в фокусе */
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #5E5E5E;
+}
+/* Цвет пунктов навигационного меню */
+.navbar-default .navbar-nav > li > a {
+    color: #777;
+}
+/* Цвет пункта меню, при поднесении к нему курсора мышки или при его нахождении в фокусе */
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #333;
+}
