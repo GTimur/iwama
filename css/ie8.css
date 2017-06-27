@@ -72,3 +72,58 @@
 	#footer .icons a {
 		color: #ffffff;
 	}
+
+ .recent-posts li {
+         font-size: 20px;
+         line-height: 36px;
+ }
+
+#qouted {
+                font-style: italic;
+/*              margin: 10em 7em 2em 1em;*/
+                padding: 1.5em 7em 1.5em 1.5em;
+                color: #F5F5DC;
+        }
+
+#quoted h5 {
+        font-style: italic;
+        margin: 2em 0em 2em 2em;
+/*      padding: 1.5em 7em 1.5em 1.5em;*/
+        color: #F5F5DC;
+}
+
+#qfooter {
+                font-style: italic;
+                color: #FAEEDD;
+        }
+
+#qfooter h5 {
+        font-style: italic;
+        margin: 2em 0em 2em 2em;
+        color: #FAEEDD;
+}
+
+/*ссылки без подчеркиваний*/
+.moda {
+    color: #49bf9d;
+}
+
+.moda a {
+                -moz-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+                -webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+                -ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+                transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+                border-bottom: dotted 0px;
+/*              color: #49bf9d;*/
+                color: #3F888F;
+                text-decoration: none;
+        }
+
+.moda a:hover {
+                        border-bottom-color: transparent;
+/*                      color: #49bf9d !important;*/
+                        color: #3F888F !important;
+                        text-decoration: none;
+                }
+
+

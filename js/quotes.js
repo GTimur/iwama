@@ -63,7 +63,7 @@ function randomQuote() {
 
 randomQuote();
 
-document.querySelector("footer").addEventListener('click', randomQuote)
+document.querySelector("qfooter").addEventListener('click', randomQuote)
 
 $(".nav a").on("click", function(){
    $(".nav").find(".active").removeClass("active");

@@ -2090,6 +2090,7 @@
 			.image.avatar img {
 				border-radius: 8px;
 				width: 100%;
+				height: 100%;
 			}
 
 /* List */
@@ -3185,11 +3186,11 @@
 }
 
 /*ссылки без подчеркиваний*/
-#moda {
+.moda {
     color: #49bf9d;
 }
 
-#moda a {
+.moda a {
 		-moz-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
@@ -3200,7 +3201,7 @@
 		text-decoration: none;
 	}
 
-#moda a:hover {
+.moda a:hover {
 			border-bottom-color: transparent;
 /*			color: #49bf9d !important;*/
 			color: #3F888F !important;
