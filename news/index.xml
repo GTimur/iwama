@@ -6,10 +6,20 @@
     <description>Recent content in News on Краснодарский клуб айкидо Такемусу Айки</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://gtimur.github.io/iwama/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>В разделах Фото и Видео появились интересные материалы (20.07.18).</title>
+      <link>https://gtimur.github.io/iwama/news/video/</link>
+      <pubDate>Fri, 20 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://gtimur.github.io/iwama/news/video/</guid>
+      <description>Обновились разделы Фото и Видео , добавлены новые видео и фотоматериалы с последних событий клуба (экзамен и первенство в Будокане)! 
+Приятного просмотра!</description>
+    </item>
     
     <item>
       <title>Летний лагерь 2018!</title>
@@ -21,16 +31,6 @@
 Ставший уже традиционным для Краснодарского клуба айкидо Такемусу Айки горный спортивный лагерь вновь состоится с 12 по 18 августа 2018 г.
 Фоторепортаж о лагерях прошлых лет и о жизни нашего клуба, вы можете посмотреть здесь и в vk.com
 Напоминаю, что лагерь располагается на базе МЧС на горе Лысая (крестьянско-фермерское хозяйство «Серебряный ручей») на высоте 900 м над уровнем моря в близи ж/д станции Чилипси (между Горячим ключом и Туапсе напротив г.</description>
-    </item>
-    
-    <item>
-      <title>В нашей галерее появились интересные фото- и видеоматериалы.</title>
-      <link>https://gtimur.github.io/iwama/news/video/</link>
-      <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://gtimur.github.io/iwama/news/video/</guid>
-      <description>Обновился раздел Галерея, добавлены новые видео и фотоматериалы с последних событий клуба (экзамен и первенство в Будокане)! 
-Приятного просмотра!</description>
     </item>
     
   </channel>
