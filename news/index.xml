@@ -6,10 +6,19 @@
     <description>Recent content in News on Краснодарский клуб айкидо Такемусу Айки</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://gtimur.github.io/iwama/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>В разделе Полезная информация размещены рекомендации по оформлению страховки.</title>
+      <link>https://gtimur.github.io/iwama/news/strah/</link>
+      <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://gtimur.github.io/iwama/news/strah/</guid>
+      <description>Добавлена инструкция по оформлению страховки!</description>
+    </item>
     
     <item>
       <title>В разделах Фото и Видео появились интересные материалы (20.07.18).</title>
