@@ -6,10 +6,25 @@
     <description>Recent content in Photos on Краснодарский клуб айкидо Такемусу Айки</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Jun 2018 23:00:01 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 31 Aug 2018 08:00:01 +0300</lastBuildDate>
     
 	<atom:link href="https://gtimur.github.io/iwama/photo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Горный лагерь Айкидо 2018</title>
+      <link>https://gtimur.github.io/iwama/photo/298lager2018/</link>
+      <pubDate>Fri, 31 Aug 2018 08:00:01 +0300</pubDate>
+      
+      <guid>https://gtimur.github.io/iwama/photo/298lager2018/</guid>
+      <description>1st
+      2nd
+      3rd
+      4th
+      5th
+      6th
+      7th</description>
+    </item>
     
     <item>
       <title>Первенство Краснодара по Айкидо</title>
@@ -17,9 +32,13 @@
       <pubDate>Sun, 03 Jun 2018 23:00:01 +0300</pubDate>
       
       <guid>https://gtimur.github.io/iwama/photo/299fest2018/</guid>
-      <description>Первенство Краснодара по Айкидо В Краснодаре 3-го июня 2018 г. состоялось важное событие для нашего Краснодарского клуба Айкидо Такемусу Айки.
-В зале &amp;ldquo;Будокан&amp;rdquo; города Краснодара прошел Первый городской фестиваль демонстрационных программ по Айкидо, в котором принимало участие 29 человек из 5 клубов Айкидо Краснодара, из которых 11 ребят и девчат - это ученики нашего клуба.
-Очень много положительных эмоций связано с этим мероприятием, начиная с того, что ребята получили много полезной информации и навыков, также как и показали свое мастерство и свое умение в выполнении техник Айкидо.</description>
+      <description>1st
+      2nd
+      3rd
+      4th
+      5th
+      6th
+      7th</description>
     </item>
     
     <item>
@@ -31,7 +50,7 @@
       <description>В Краснодарском клубе Айкидо Такемусу Айки 2-го июня 2018 г. прошла очередная аттестация. Экзамены на различные степени ученического мастерства (кю) успешно сдали 25 учеников нашего клуба. Самому младшему из них 8, а самому старшему 50 лет.
 Поздравляем всех с успешной сдачей экзаменов и желаем дальнейших успехов на трудном, долгом, но таком пленительном пути к вершинам Айкидо!
 
-                           1st</description>
+                               1st</description>
     </item>
     
     <item>
@@ -45,8 +64,7 @@
       Lager2017 003
       Lager2017 004
       Lager2017 005
-      Lager2017 006
-      Lager2017 007</description>
+      Lager2017 006</description>
     </item>
     
     <item>
@@ -55,13 +73,12 @@
       <pubDate>Fri, 28 Apr 2017 08:00:01 +0300</pubDate>
       
       <guid>https://gtimur.github.io/iwama/photo/main/</guid>
-      <description>                           Наш зал
+      <description>Наш зал
       Наш зал
       Наш зал
       Наш зал
       Наш зал
-      Наш зал
-     </description>
+      Наш зал</description>
     </item>
     
   </channel>
