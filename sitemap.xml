@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gtimur.github.io/iwama/video/video07/</loc>
+    <lastmod>2018-11-15T08:00:01+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gtimur.github.io/iwama/news/119lev2018/</loc>
+    <lastmod>2018-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gtimur.github.io/iwama/video/video06/</loc>
     <lastmod>2018-10-19T08:00:01+03:00</lastmod>
   </url>
@@ -113,7 +123,7 @@
   
   <url>
     <loc>https://gtimur.github.io/iwama/news/</loc>
-    <lastmod>2018-10-19T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -135,7 +145,7 @@
   
   <url>
     <loc>https://gtimur.github.io/iwama/video/</loc>
-    <lastmod>2018-10-19T08:00:01+03:00</lastmod>
+    <lastmod>2018-11-15T08:00:01+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -157,7 +167,7 @@
   
   <url>
     <loc>https://gtimur.github.io/iwama/</loc>
-    <lastmod>2018-10-19T08:00:01+03:00</lastmod>
+    <lastmod>2018-11-15T08:00:01+03:00</lastmod>
     <priority>0</priority>
   </url>
   
