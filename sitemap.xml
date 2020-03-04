@@ -4,14 +4,17 @@
   
   <url>
     <loc>http://gtimur.github.io/iwama/video/</loc>
-    <lastmod>2020-01-11T18:00:01+03:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-01-12T08:00:01+03:00</lastmod>
   </url>
   
   <url>
     <loc>http://gtimur.github.io/iwama/</loc>
-    <lastmod>2020-01-11T18:00:01+03:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-01-12T08:00:01+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gtimur.github.io/iwama/video/newvid/</loc>
+    <lastmod>2020-01-12T08:00:01+03:00</lastmod>
   </url>
   
   <url>
@@ -22,7 +25,6 @@
   <url>
     <loc>http://gtimur.github.io/iwama/news/</loc>
     <lastmod>2020-01-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -73,7 +75,6 @@
   <url>
     <loc>http://gtimur.github.io/iwama/photo/</loc>
     <lastmod>2018-08-31T08:00:01+03:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -152,22 +153,18 @@
   
   <url>
     <loc>http://gtimur.github.io/iwama/aiki/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://gtimur.github.io/iwama/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://gtimur.github.io/iwama/post/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://gtimur.github.io/iwama/tags/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
